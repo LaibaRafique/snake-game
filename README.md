@@ -117,5 +117,3 @@ Game includes:
 **Laiba Rafiq**
 
 Software Engineering Student | Python Enthusiast
-
----
